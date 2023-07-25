@@ -1,0 +1,10 @@
+* cl-grip
+
+Common Lisp pluggable logging system
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tychoish/cl-grip.git   |
+| commit  | {"messa  |
+| systems | cl-grip |
+|---------+-------------------------------------------|
+
