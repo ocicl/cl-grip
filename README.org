@@ -4,7 +4,7 @@ Common Lisp pluggable logging system
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/tychoish/cl-grip.git   |
-| commit  | {"messa  |
+| commit  | baef598  |
 | systems | cl-grip |
 |---------+-------------------------------------------|
 
