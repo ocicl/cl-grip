@@ -2,9 +2,8 @@
 
 Common Lisp pluggable logging system
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/tychoish/cl-grip.git   |
-| commit  | baef598  |
-| systems | cl-grip |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/tychoish/cl-grip.git |
+| commit  | b949964                                     |
+| systems | cl-grip                                     |
+|---------+---------------------------------------------|
