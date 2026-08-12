@@ -7,4 +7,4 @@ Common Lisp pluggable logging system
 | commit  | b949964                                     |
 | systems | cl-grip                                     |
 |---------+---------------------------------------------|
- 
+  
